@@ -1,0 +1,21 @@
+· Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. · Git is easy to learn and has a tiny footprint with lightning fast performance.
+
+· Version control systems are a category of software tools that helps in recording changes made to files by keeping a track of modifications done in the code.
+
+Types of Version Control Systems:
+
+· Local Version Control Systems
+
+· Centralized Version Control Systems
+
+· Distributed Version Control Systems
+
+Local Version Control Systems: It is one of the simplest forms and has a database that kept all the changes to files under revision control
+
+Centralized Version Control Systems: Centralized version control systems contain just one repository globally and every user need to commit for reflecting one’s changes in the repository. It is possible for others to see your changes by updating.
+
+Two things are required to make your changes visible to others which are:
+
+· You commit
+
+· They update
